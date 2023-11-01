@@ -1,0 +1,28 @@
+PROGRES APK MENTAL HEALTH = SDG Kesehatan
+Nama kelompok: SDG 3
+nama anggota: 
+Dzaki Syauqi Anthera Mumtaz (2202942)
+Raisyal Dimas Prayoga (2202493)
+FANY LAILATUNISA (2209258)
+TYOFFADHIL HAIDAR ISMAIL (2200843)
+INDY HENDIYANI (2202691)
+
+Objek:
+1. ChatMessage: Mewakili pesan chat dengan pengirim, waktu, dan isi pesan.
+2. JurnalHarian: Mewakili entri jurnal harian dengan judul, waktu, dan isi.
+3. User: Mewakili pengguna dengan username, password, daftar jurnal harian, dan chat room.
+4 AnonymousStoryTeller: Mewakili pencerita cerita anonim dan chat room anonim.
+5. Admin: Mewakili admin dengan kemampuan untuk mengelola pengguna, cerita anonim, dan chat anonim.
+
+Kelas:
+1. ChatMessage: Kelas ini digunakan untuk mewakili pesan chat. Atributnya adalah sender (pengirim), time (waktu pengiriman), dan content (isi pesan). Kelas ini memiliki method getter untuk semua atributnya.
+2. JurnalHarian: Kelas ini digunakan untuk mewakili entri jurnal harian. Atributnya adalah title (judul), time (waktu pencatatan), dan content (isi jurnal). Kelas ini memiliki method getter untuk semua atributnya.
+3. User: Kelas ini digunakan untuk mewakili pengguna. Atributnya meliputi username, password, daftar jurnal harian, dan chat room. Kelas ini memiliki method untuk menulis jurnal, mengirim pesan ke chat room, dan autentikasi pengguna, serta beberapa method lainnya.
+4. AnonymousStoryTeller: Kelas ini digunakan untuk mewakili pencerita cerita anonim dan chat room anonim. Atributnya meliputi daftar cerita anonim dan daftar pesan chat anonim. Kelas ini memiliki method untuk memposting cerita anonim dan pesan chat, serta untuk mengambil daftar cerita anonim dan pesan chat.
+5. Admin: Kelas ini merupakan turunan dari User dan digunakan untuk mewakili admin dengan kemampuan tambahan untuk mengelola pengguna, cerita anonim, dan chat anonim. Admin memiliki method tambahan seperti menghapus pengguna, menghapus cerita anonim, melihat semua cerita anonim, dan melihat pesan chat anonim.
+
+PROGRESSS:
+TELAH MEMBUAT TUI Sederhana dan juga membuat class dan object telah membuat tampilan sederhana dan juga sudah membagi TUGAS buat UAS dan telah mencek kode apakah jalan atau tidak, jika dirasakan memungkinkan akan ada tambahan fitur dalam apk mental health
+INDY, FAnny =UI/ux
+Dzaki, Tyo = code
+raisyal = database 
